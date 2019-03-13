@@ -1,4 +1,4 @@
-## Run in terminal
+## Run
 
-1. By node-cron
-1. By node index.js
+1. By node-cron automatically
+1. By node index.js in the terminal
